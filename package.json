@@ -1,0 +1,19 @@
+{
+  "name": "local",
+  "version": "1.0.0",
+  "description": "A wrapper for Window.localStorage",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flipjs/local.git"
+  },
+  "author": "Felipe Apostol <flipjs.io@gmail.com> (http://flipjs.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flipjs/local/issues"
+  },
+  "homepage": "https://github.com/flipjs/local#readme"
+}
