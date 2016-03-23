@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flipjs/local.git"
+    "url": "git+https://github.com/flipjs/flipjs-local.git"
   },
   "author": "Felipe Apostol <flipjs.io@gmail.com> (http://flipjs.io/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flipjs/local/issues"
+    "url": "https://github.com/flipjs/flipjs-local/issues"
   },
-  "homepage": "https://github.com/flipjs/local#readme"
+  "homepage": "https://github.com/flipjs/flipjs-local#readme"
 }
