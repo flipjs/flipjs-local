@@ -1,5 +1,5 @@
 {
-  "name": "local",
+  "name": "flipjs-local",
   "version": "1.0.0",
   "description": "A wrapper for Window.localStorage",
   "main": "src/index.js",
